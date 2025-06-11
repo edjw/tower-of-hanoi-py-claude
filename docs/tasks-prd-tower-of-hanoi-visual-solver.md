@@ -3,16 +3,19 @@
 ## Relevant Files
 
 ### Python Application Files
+
 - `tower_of_hanoi.py` - Main single-file Python application with all functionality
 - `requirements.txt` - Dependencies file (should be empty - using only standard library)
 - `README.md` - Basic usage instructions and project description
 
 ### Testing & Quality Files (Optional)
+
 - `test_tower_of_hanoi.py` - Unit tests for algorithm validation
 - `.pylintrc` - Linting configuration for code quality checks
 - `mypy.ini` - Type checking configuration
 
 ### Notes
+
 - Single Python file approach using only standard library (tkinter)
 - Type hints throughout for code clarity and maintainability
 - Object-oriented design with clear separation of concerns
